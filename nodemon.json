@@ -1,0 +1,6 @@
+{
+  "ignore": ["node_modules"],
+  "watch": ["dist/*"],
+  "delay": "2500",
+  "ext": "js ts"
+}
